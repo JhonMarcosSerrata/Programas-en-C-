@@ -1,0 +1,3 @@
+C:\Users\RODRIGUEZ\Desktop\Programas en C#\Ejemplo lite DB\obj\Debug\Ejemplo lite DB.csproj.AssemblyReference.cache
+C:\Users\RODRIGUEZ\Desktop\Programas en C#\Ejemplo lite DB\obj\Debug\Ejemplo lite DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\RODRIGUEZ\Desktop\Programas en C#\Ejemplo lite DB\obj\Debug\Ejemplo lite DB.csproj.CoreCompileInputs.cache
